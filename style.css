@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+    background-color: aquamarine;
+}
+
+#container{
+    background-color: beige;
+    height: 525px;
+    width: 360px;
+    margin:100px auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    font-weight: 400;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: #1F030C;
+    color: snow;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form input[type="text"] {
+    width: 90px;
+  }
+
+
+#bill_amount{ 
+    font-size: 14px;
+    color:red;
+
+background-color: gainsboro;
+    
+}
+
+#number_people{ 
+    font-size: 14px;
+    color : maroon;
+    background-color: wheat
+    
+}
+
+button:hover {
+    background: #c4615d;
+    border-bottom-color: #111;
+  }
+
+  
+  
+
